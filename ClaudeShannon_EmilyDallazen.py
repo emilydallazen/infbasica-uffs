@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "Claude Shannon (30 de abril de 1916 — 24 de fevereiro de 2001) foi um matemático, engenheiro eletrônico e criptógrafo estadunidense, conhecido como o pai da teoria da informação."
+    mensagem = "Claude Elwood Shannon (30 de abril de 1916 — 24 de fevereiro de 2001) foi um matemático, engenheiro eletrônico e criptógrafo estadunidense, conhecido como o pai da teoria da informação."
     return mensagem
 
 
