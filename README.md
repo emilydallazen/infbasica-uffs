@@ -9,7 +9,7 @@
  5. Os componentes da dupla devem juntar o código no repositório criado no passo 1. 
  6.  Um componente faz push para o GitHub.
  7. O segundo integrante da dupla busca as modificações no GitHub e faz o merge.
- 8. 3 Depois do merge, o integrante do passo 5.2 faz o push para o GitHub.
+ 8.  Depois do merge, o integrante do passo 7 faz o push para o GitHub.
  9. Criar uma branch nomeada com o número da matrícula do estudante (cada componente da dupla cria uma branch).
  10. Setar a URL remota dos repositórios para o repositório descrito no passo 3. Resolver conflitos!
  11. Fazer o push do código para o repositório do passo 3. 
